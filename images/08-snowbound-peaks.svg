@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Original illustrated landscape">
+  <defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#83b6d2"/><stop offset="1" stop-color="#edf3f8"/></linearGradient><linearGradient id="snow" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#b9d5e1"/></linearGradient></defs>
+  <rect width="1200" height="720" fill="url(#sky)"/><circle cx="942" cy="144" r="69" fill="#fff9dc" opacity=".85"/>
+<path d="M0 534L208 228L367 468L554 129L780 493L931 249L1200 526V720H0Z" fill="#728fa8"/>
+<path d="M0 539L211 271L375 531L554 158L775 531L931 281L1200 526V720H0Z" fill="#b7cbd8"/>
+<path d="M385 445L554 158L737 456L668 418L620 437L550 276L475 411Z" fill="url(#snow)"/>
+<path d="M55 465L211 271L351 468L276 435L229 376L177 437Z" fill="#eef8fb"/>
+<path d="M798 441L931 281L1089 460L1014 433L929 358L875 439Z" fill="#f3fafb"/>
+<path d="M0 556q238-70 439-11t761-27v202H0Z" fill="#dcecf0"/>
+<path d="M0 634q286-47 565 5t635-22v103H0Z" fill="#b8d4db"/>
+<g fill="#2b5c61"><path d="M87 684l-36-115h18l-39-75-37 75h18l-35 115Z"/><path d="M204 660l-33-109h17l-37-68-34 68h16l-34 109Z"/><path d="M1090 678l-38-131h20l-43-83-42 83h21l-40 131Z"/><path d="M1200 699l-37-142h19l-41-83-39 83h19l-38 142Z"/></g>
+<g fill="#f9ffff" opacity=".9"><circle cx="118" cy="204" r="5"/><circle cx="343" cy="101" r="3"/><circle cx="784" cy="139" r="4"/><circle cx="1069" cy="241" r="3"/><circle cx="690" cy="291" r="3"/></g></svg>

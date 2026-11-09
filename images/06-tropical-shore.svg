@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Original illustrated landscape">
+  <defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#8ad0e4"/><stop offset="1" stop-color="#f6e5bc"/></linearGradient><linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#49c8c1"/><stop offset="1" stop-color="#0c7594"/></linearGradient></defs>
+  <rect width="1200" height="720" fill="url(#sky)"/><circle cx="958" cy="144" r="82" fill="#fff5bd"/>
+<path d="M0 345q208-22 420 0t415-6t365 9v372H0Z" fill="url(#sea)"/>
+<path d="M0 568q210-55 450-10t750-7v169H0Z" fill="#e9d6a7"/>
+<path d="M0 590q207-62 442-25" fill="none" stroke="#fbf6db" stroke-width="15" opacity=".76"/>
+<path d="M0 385q173-113 337-23l56 27Z" fill="#407b68"/>
+<path d="M0 390q147-62 325-29" fill="none" stroke="#8eb989" stroke-width="13"/>
+<path d="M1003 720q-130-243-32-524" fill="none" stroke="#8d664f" stroke-width="36" stroke-linecap="round"/>
+<g fill="#307e65"><path d="M971 203q-187-111-312-33q183-20 312 56Z"/><path d="M972 203q-114-164-227-180q115 89 207 206Z"/><path d="M973 204q42-173 161-172q-105 72-149 198Z"/><path d="M972 206q172-88 245 6q-123-46-232 17Z"/><path d="M972 205q-33 136-130 161q74-93 104-171Z"/></g>
+<g fill="none" stroke="#e8fff4" stroke-width="6" opacity=".68"><path d="M449 450q110-12 225 0"/><path d="M765 480q106-13 210 0"/><path d="M244 497q91-12 185 0"/></g>
+<path d="M103 650l54-40 54 40" fill="none" stroke="#ad805d" stroke-width="12"/></svg>

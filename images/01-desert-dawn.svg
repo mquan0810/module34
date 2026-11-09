@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Original illustrated landscape">
+  <defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ed9f9f"/><stop offset="1" stop-color="#ffe4b1"/></linearGradient><linearGradient id="dune" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f9bd74"/><stop offset="1" stop-color="#d97066"/></linearGradient></defs>
+  <rect width="1200" height="720" fill="url(#sky)"/><circle cx="866" cy="210" r="97" fill="#fff5ca" opacity=".93"/>
+<circle cx="866" cy="210" r="142" fill="#ffecbd" opacity=".16"/>
+<path d="M0 434Q190 350 374 417T760 394T1200 426V720H0Z" fill="#d78e7c"/>
+<path d="M0 499Q232 370 474 472Q734 572 939 415Q1078 330 1200 382V720H0Z" fill="#f2b780"/>
+<path d="M0 577Q285 460 569 556T1200 502V720H0Z" fill="url(#dune)"/>
+<path d="M168 720Q412 552 740 579T1200 537V720Z" fill="#c97364"/>
+<path d="M710 720Q787 666 818 597Q834 560 900 528" fill="none" stroke="#f5c08d" stroke-width="8" opacity=".64"/>
+<g fill="#764e52"><path d="M178 610l-8-57 9 32 12-26-9 51z"/><path d="M1040 616l-8-62 9 39 17-26-14 49z"/><path d="M332 654l-7-36 11 24 9-17-7 29z"/></g>
+<g fill="none" stroke="#fff7d9" stroke-width="3" opacity=".6"><path d="M130 220q18-15 36 0"/><path d="M167 220q18-15 36 0"/></g></svg>

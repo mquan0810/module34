@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Original illustrated landscape">
+  <defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#f1b989"/><stop offset="1" stop-color="#fff0cb"/></linearGradient><linearGradient id="river" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b5ded5"/><stop offset="1" stop-color="#5ea6b6"/></linearGradient></defs>
+  <rect width="1200" height="720" fill="url(#sky)"/><circle cx="887" cy="180" r="81" fill="#ffedb1" opacity=".9"/>
+<path d="M0 430q175-150 339-65q166 82 322-21q195-113 539 33v343H0Z" fill="#b68f73"/>
+<path d="M0 522Q226 384 410 479T800 436T1200 460V720H0Z" fill="#7b9b71"/>
+<path d="M0 587q295-112 510-34t690-30v197H0Z" fill="#4f796a"/>
+<path d="M570 502q168 16 66 96Q584 635 780 720H333q224-66 243-130q15-45-94-67Z" fill="url(#river)"/>
+<g stroke="#6d544a" stroke-width="15"><path d="M115 590v-190"/><path d="M282 625v-169"/><path d="M998 594v-176"/><path d="M1105 635v-182"/></g>
+<g><circle cx="116" cy="398" r="90" fill="#e99b52"/><circle cx="67" cy="440" r="66" fill="#db6d48"/><circle cx="164" cy="444" r="58" fill="#f2b463"/><circle cx="286" cy="463" r="71" fill="#ca644a"/><circle cx="249" cy="483" r="46" fill="#f3ba65"/><circle cx="1000" cy="422" r="78" fill="#d67646"/><circle cx="1064" cy="459" r="61" fill="#efaa56"/><circle cx="1113" cy="454" r="75" fill="#d5674f"/></g>
+<g fill="#ffd091"><circle cx="420" cy="397" r="6"/><circle cx="461" cy="443" r="4"/><circle cx="831" cy="495" r="5"/></g></svg>
